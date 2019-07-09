@@ -7,3 +7,5 @@ Qemu xlnx：https://github.com/Xilinx/qemu
 ZCU102：
 
 2.安装
+（1）Buildroot的安装：
+
