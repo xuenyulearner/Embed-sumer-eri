@@ -23,7 +23,12 @@ ZCU102：
  安装步骤：https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842060/QEMU
  （3）zcu102配置：
  只需将zcu102文件夹所在位置进行正确配置即可使用。
+ 3.环境配置
+ （1）Buildroot
+ cp .config $br
  
+ (2)Qemu
+ download dtb
  
  
  
